@@ -121,6 +121,11 @@ form input{
     font-size: 30px;
     border-radius: 20%;
 }
+@media (max-width:991px){
+    .feature-content h2{ font-size: 18px;
+    }
+}
+
 
 
 
